@@ -1,0 +1,32 @@
+cff-version: 1.0.0
+message: "If you use this dataset, please cite it as below."
+authors:
+
+- family-names: "Alafif"
+  given-names: "Tarik"
+
+- family-names: "Hadi"
+  given-names: "Anas"
+
+- family-names: "Allahyani"
+  given-names: "Manal"
+
+- family-names: "Alzahrani"
+  given-names: "Bander"
+
+- family-names: "Alhothali"
+  given-names: "Areej" 
+
+- family-names: "Alotaibi"
+  given-names: "Reem" 
+
+- family-names: "Barnawi"
+  given-names: "Ahmed" 
+
+title: "HAJJv2 dataset"
+
+version: 1.0.0
+
+date-released: 2023-02-17
+
+url: "https://github.com/KAU-Smart-Crowd/HAJJv2_dataset"
